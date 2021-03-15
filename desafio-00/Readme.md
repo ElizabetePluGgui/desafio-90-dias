@@ -1,3 +1,6 @@
+<p align="center">    
+<img alt="Capa" src="Ignite.png">
+</p>
 <h1 align="center">
     Hello World 🚀
 </h1>
